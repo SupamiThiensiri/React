@@ -1,0 +1,8 @@
+npx create-next-app@latest
+Client
+no
+yes
+yes
+yes
+yes
+no
