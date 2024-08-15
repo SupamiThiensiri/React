@@ -1,0 +1,12 @@
+npx create-react-app client
+npm install react-router-dom
+npm install sweetalert2
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+
+npm install @fontsource/roboto
+
+
+npm install -D tailwindcss
+npx tailwindcss init  

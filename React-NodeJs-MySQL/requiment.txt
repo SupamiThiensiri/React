@@ -1,0 +1,12 @@
+npx create-react-app client
+npm install react-router-dom
+npm install sweetalert2
+npm install -D tailwindcss
+npx tailwindcss init
+npm install @headlessui/react @heroicons/react
+
+npm install @fontsource/roboto
+
+
+
+

@@ -1,0 +1,5 @@
+mkdir server
+cd server
+npm init -y
+npm i express inspirational-quotes
+npm install express mysql cors
